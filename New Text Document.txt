@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 new text 1
+=======
+new text
+>>>>>>> Stashed changes
